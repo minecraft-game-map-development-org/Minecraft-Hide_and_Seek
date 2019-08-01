@@ -1,0 +1,4 @@
+
+title @a[team=tagger] actionbar ["",{"text":"\ub2f9\uc2e0\uc740 "},{"text":"\uc220\ub798","color":"red"},{"text":"\uc785\ub2c8\ub2e4 \ubaa8\ub4e0 \uc0dd\uc874\uc790\ub4e4\uc744 ","color":"white"},{"text":"\uc81c\uac70","color":"red"},{"text":"\ud558\uc138\uc694","color":"white"}]
+title @a[team=people] actionbar ["",{"text":"\ub2f9\uc2e0\uc740 "},{"text":"\uc0dd\uc874\uc790","color":"green"},{"text":"\uc785\ub2c8\ub2e4 \ubaa8\ub4e0 \uc0dd\uc874\uc790\ub4e4\uc744 ","color":"white"},{"text":"\ud53c\ud574 "},{"text":"\uc0dd\uc874","color":"green"},{"text":"\ud558\uc138\uc694","color":"white"}]
+title @a[team=people] actionbar ["",{"text":"\ub2f9\uc2e0\uc740 "},{"text":"\uc0dd\uc874\uc790","color":"green"},{"text":"\uc785\ub2c8\ub2e4 \ubaa8\ub4e0 \uc0dd\uc874\uc790\ub4e4\uc744 ","color":"white"},{"text":"\ud53c\ud574 "},{"text":"\uc0dd\uc874","color":"green"},{"text":"\ud558\uc138\uc694","color":"white"}]
